@@ -21,3 +21,15 @@ Hello world
 or
 
 `crystal build hello-world.cr && ./hello-world`
+
+HTTP Server and Client
+----------------------
+
+In one terminal tab `crystal http-server.cr`
+In another tab `crystal http-client.cr`
+
+or
+
+In one terminal tab `crystal build http-server.cr && ./http-server`
+In another tab `crystal build http-client.cr && ./http-client`
+
