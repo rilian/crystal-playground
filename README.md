@@ -1,6 +1,6 @@
 # Crystal language playground
 
-Trying out some stuff in [Crystal](http://crystal-lang.org/)
+Trying out some stuff in [Crystal](http://crystal-lang.org/) ([API reference](http://crystal-lang.org/api/index.html))
 
 `git clone git@github.com:rilian/crystal-playground.git && cd crystal-playground`
 
