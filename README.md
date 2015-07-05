@@ -11,7 +11,7 @@ Bubble sort
 
 or
 
-`crystal build bubble-sort.cr && ./bubble-sort`
+`crystal build bubble-sort.cr --release && ./bubble-sort`
 
 Hello world
 -----------
@@ -20,7 +20,7 @@ Hello world
 
 or
 
-`crystal build hello-world.cr && ./hello-world`
+`crystal build hello-world.cr --release && ./hello-world`
 
 HTTP Server and Client
 ----------------------
@@ -30,6 +30,5 @@ In another tab `crystal http-client.cr`
 
 or
 
-In one terminal tab `crystal build http-server.cr && ./http-server`
-In another tab `crystal build http-client.cr && ./http-client`
-
+In one terminal tab `crystal build http-server.cr --release && ./http-server`
+In another tab `crystal build http-client.cr --release && ./http-client`
